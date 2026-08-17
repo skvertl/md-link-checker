@@ -85,9 +85,3 @@ Enter directory path to check (press Enter to scan current directory):
 │ Broken Links Count: 0       │
 └─ `md-link-checker` Report ──┘
 ```
-
----
-
-## 📄 Лицензия
-
-MIT License
